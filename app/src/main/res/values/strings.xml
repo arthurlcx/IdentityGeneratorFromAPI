@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Identity Generator</string>
+    <string name="btn_generateVictim">Generate Identity</string>
+    <string name="NoOfIdentity">Number Of Identity</string>
+</resources>
